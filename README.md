@@ -3,12 +3,12 @@ Subrata Kumar Patel
 
 Exploring how Artificial Intelligence can elevate human potential — not replace it.
 
+
+About Me:
+
 I operate at the intersection of **Business Strategy, Data Analytics, and Artificial Intelligence** — designing intelligent systems that help organizations move from intuition-led decisions to insight-driven execution.
 
 With 18+ years of leadership experience managing complex organizational ecosystems, I now focus on leveraging data and AI to build adaptive, future-ready operating models.
-
-
-About Me:
 
 I bring a rare blend of:
 
@@ -17,16 +17,9 @@ I bring a rare blend of:
 • Analytical problem-solving  
 • Technology-oriented thinking  
 
-My work increasingly centers around enabling organizations to transition toward data-informed and AI-enabled decision frameworks. The future belongs to leaders who can integrate business context with data intelligence.
+My work increasingly centers around enabling organizations to transition toward data-informed and AI-enabled decision frameworks. 
 
-I am particularly interested in building intelligent systems that enhance:
-
-- Operational efficiency  
-- Strategic visibility  
-- Predictive decision-making  
-- Scalable organizational models  
-
-
+  
 Current Focus Areas:
 
 - Data Analytics & Visualization
@@ -45,14 +38,8 @@ Python | SQL
 Data & Analytics:
 Power BI | Pandas | NumPy | Excel  
 
-Core Strength Areas:
-Business Intelligence  
-Data-Driven Strategy  
-Systems Thinking  
-Predictive Modeling  
-Process Optimization  
-
 Currently Expanding Into:
+
 Machine Learning  
 Agentic AI Systems  
 Automation Architectures  
@@ -90,6 +77,14 @@ Goal: Transition from static reporting → decision intelligence.
 
 ---
 
+Core Strength Areas:
+
+Business Intelligence  
+Data-Driven Strategy  
+Systems Thinking  
+Predictive Modeling  
+Process Optimization  
+
 Areas of Strategic Interest:
 
 - AI for Enterprise Transformation
@@ -101,6 +96,8 @@ Areas of Strategic Interest:
 
 
 Collaboration Opportunities:
+
+I believe, the future belongs to leaders who can integrate business context with data intelligence.
 
 I am interested in collaborating on projects that integrate data, AI, and business strategy to solve meaningful problems.
 
